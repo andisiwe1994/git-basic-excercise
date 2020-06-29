@@ -1,0 +1,66 @@
+
+INITIAL COMMITS
+
+1.Created folder
+2.cd
+3.ls -a and it showed nothing.
+4.I nitialize is a git repo
+5.ls git repo
+6.show status of what branch is my git.
+7.Created readme file
+8.used git log to check if the are any commits.
+9.Used git add to track status.
+10.Status to to check my git status.
+11.checked my git status again.
+12. Readme status have nothing inside.
+
+MORE COMMITS
+
+1. nano README.md
+   ctrl x
+2.cat README.md and it printed my file to console.
+3.git status
+fatal: not a git repository (or any of the parent directories): .git
+4. nothing found.
+5.there is nothing.
+
+
+
+
+1.commit a57585d3cf93e64c04e62e58dfe8151d191503cf (HEAD -> master)
+Author: Sheena O'Connell <sheena.oconnell@gmail.com>
+Date:   Tue Apr 23 15:07:40 2019 +0200
+
+    third commit
+
+commit a48c005c761902395cf9a50f13ddbffeee4f5537
+Author: Sheena O'Connell <sheena.oconnell@gmail.com>
+Date:   Tue Apr 23 15:07:12 2019 +0200
+
+    second commit
+
+commit 2103b6418ecf4f70effabb639cfad6ac9d57c089
+Author: Sheena O'Connell <sheena.oconnell@gmail.com>
+Date:   Tue Apr 23 14:43:51 2019 +0200
+
+    initial commit
+
+
+2.Back to terminal
+
+3.git checkout
+fatal: not a git repository (or any of the parent directories): .git
+
+4.cat README.md
+THIS IS ME ctrl x Y
+
+5. used check master to Check out a branch updates the files  to match the version stored in that branch, and  Git to record all new commits on that branch.
+
+6.cat README.md
+THIS IS ME ctrl x Y
+
+
+
+
+
+
