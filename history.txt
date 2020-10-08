@@ -1,0 +1,1000 @@
+ 1009  git checkout -b string-calculator
+ 1010  git status
+ 1011  git add
+ 1012  git add *
+ 1013  git commit -m "second commit"
+ 1014  git add README.md
+ 1015  git add *
+ 1016  git commit -m "second commit"
+ 1017  git push -u origin string-calculator
+ 1018  git pull
+ 1019  git branch --set-upstream-to=origin/<branch> string-calculator
+ 1020  git status
+ 1021  git pull <remote> <branch> string-calculator
+ 1022  git push
+ 1023  git push --set-upstream origin string-calculator
+ 1024  clear
+ 1025  git cimmit -a -m "second commit"
+ 1026  git commit -a -m "second commit"
+ 1027  git add README.md
+ 1028  git status
+ 1029  git push -u origin string-calculato
+ 1030  git push
+ 1031  git push --set-upstream origin string-calculator
+ 1032  git log
+ 1033  git add *
+ 1034  git commit -m "second commit"
+ 1035  git add remote origin 
+ 1036  git push -u origin string-calculator
+ 1037  git status
+ 1038  git add * https://github.com/Umuzi-org/Andisiwe-Nkwana-266-string-calculator.git
+ 1039  git add *
+ 1040  git commit -m "second commit"
+ 1041  git status
+ 1042  cd string-calculator
+ 1043  git push -u origin string-calculator
+ 1044  clear
+ 1045  git commit -a -m "second commit"
+ 1046  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-230-email-random-inspirational-quote.git
+ 1047  git status
+ 1048  git add *
+ 1049  git commit -a
+ 1050  git add *
+ 1051  git rm
+ 1052  git commit -a -m "first commit"
+ 1053  git log
+ 1054  ls
+ 1055  cd Andisiwe-Nkwana-266-string-calculator/
+ 1056  ls
+ 1057  cd ..
+ 1058  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-266-string-calculator.git
+ 1059  git status
+ 1060  ls
+ 1061  cd Andisiwe-Nkwana-266-string-calculator/
+ 1062  git status
+ 1063  git add *
+ 1064  git status
+ 1065  git commit -m "second commit"
+ 1066  git push 
+ 1067  git log
+ 1068  git branch
+ 1069  git checkout -b string-calculator
+ 1070  git log
+ 1071  git push
+ 1072  git pull
+ 1073  git branch --set-upstream-to=origin/<branch> string-calculator
+ 1074  git log
+ 1075  git revert 2a6071713d6be161b3d5256033571bc9f4ee76e8
+ 1076  git status
+ 1077  git log
+ 1078  git status
+ 1079  git add .
+ 1080  git commit -m "updated files"
+ 1081  git branch
+ 1082  git push origin string-calculator
+ 1083  git pull string-calculator
+ 1084  git pull https://github.com/Umuzi-org/Andisiwe-Nkwana-266-string-calculator.git
+ 1085  git push origin https://github.com/Umuzi-org/Andisiwe-Nkwana-266-string-calculator.git
+ 1086  git push origin string-calculator
+ 1087  git push origin master
+ 1088  cd ..
+ 1089  cd..
+ 1090  cd Desktop/
+ 1091  ls
+ 1092  cd Andisiwe-Nkwana-266-string-calculator/
+ 1093  git status
+ 1094  git log
+ 1095  git branch
+ 1096  git push
+ 1097  git push --set-upstream origin string-calculator
+ 1098  cd ..
+ 1099  mkdir codetest
+ 1100  cd codetest
+ 1101  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-266-string-calculator.git
+ 1102  git log
+ 1103  code .
+ 1104  ls
+ 1105  cd Documents
+ 1106  ls
+ 1107  cd ..
+ 1108  cd Document
+ 1109  ls
+ 1110  cd ..
+ 1111  cd Desktop
+ 1112  ls
+ 1113  cd codetest
+ 1114  ls
+ 1115  cd Andisiwe-Nkwana-266-string-calculator/
+ 1116  git branch
+ 1117  git checkout -b string-calculator
+ 1118  git branch
+ 1119  git log
+ 1120  git status
+ 1121  git add
+ 1122  git add .
+ 1123  git commit -m "updated code"
+ 1124  git remote add https://github.com/Umuzi-org/Andisiwe-Nkwana-266-string-calculator.git
+ 1125  git push origin string-calculator
+ 1126  git pull
+ 1127  git branch --set-upstream-to=origin/string-calculator
+ 1128  git push origin string-calculator
+ 1129  git pull
+ 1130  git status
+ 1131  git add .
+ 1132  git status
+ 1133  git commit -m "updates"
+ 1134  git push -u origin string-calculator
+ 1135  ls
+ 1136  cd Andisiwe-Nkwana-230-email-random-inspirational-quote/
+ 1137  npm init
+ 1138  jasmine init
+ 1139  ls
+ 1140  mkdir src
+ 1141  git status
+ 1142  git add .
+ 1143  git commit -m "first commit"
+ 1144  git push -u origin ispirational-quote
+ 1145  git branch
+ 1146  git checkout -b ispirational-quote
+ 1147  git push -u origin ispirational-quote
+ 1148  node API.js
+ 1149  node api.js
+ 1150  ls
+ 1151  cd src 
+ 1152  ls
+ 1153  node api.js
+ 1154  cd src
+ 1155  node api.js
+ 1156  clear
+ 1157  npm init -y
+ 1158  clear
+ 1159  jasmine init
+ 1160  touch api_spec.js
+ 1161  cd spec
+ 1162  touch api_spec.js
+ 1163  cd ..
+ 1164  npm init -y
+ 1165  cd spec
+ 1166  npm init -y
+ 1167  jasmine
+ 1168  jsmine
+ 1169  node katas.js
+ 1170  git init 
+ 1171  git commit -m "second commit"
+ 1172  git add -u origin master
+ 1173  cd ..
+ 1174  git init
+ 1175  cd recruit/
+ 1176  git init
+ 1177  git add *
+ 1178  clear
+ 1179  git init
+ 1180  git add *
+ 1181  git commit -m "second commit"
+ 1182  git push -u origin master
+ 1183  git init
+ 1184  clear
+ 1185  cd GIT BASIC EXERCISES
+ 1186  cd ..
+ 1187  ls
+ 1188  cd recruit/
+ 1189  git init
+ 1190  git add *
+ 1191  git commit -m "first commit"
+ 1192  ls
+ 1193  git push -u origin master
+ 1194  git init
+ 1195  cd home/recruit/.git/
+ 1196  git init 
+ 1197  cd ..
+ 1198  git init
+ 1199  cd recruit/
+ 1200  git init
+ 1201  git commit -m "first commit"
+ 1202  git push -u origin master
+ 1203  l
+ 1204  ls
+ 1205  cd Desktop
+ 1206  ls
+ 1207  git clone https://github.com/andisiwe1994/linux-begginer-challenges.git
+ 1208  cd linux-begginer-challenges/
+ 1209  git status
+ 1210  git checkout -b linux-challenge
+ 1211  git status
+ 1212  git add .
+ 1213  git commit -m "first commit"
+ 1214  git push -u linux-challenge
+ 1215  git push
+ 1216  git push --set-upstream origin linux-challenge
+ 1217  cd ..
+ 1218  git clone https://github.com/andisiwe1994/git-basic-excercise.git
+ 1219  cd git-basic-excercise/
+ 1220  git status
+ 1221  git add .
+ 1222  git commit -m "first commit"
+ 1223  git push
+ 1224  jasmine
+ 1225  cd spec
+ 1226  jason init
+ 1227  clear
+ 1228  package.json init
+ 1229  npm init
+ 1230  cd spec 
+ 1231  npm init package.json
+ 1232  cd spec
+ 1233  npm init
+ 1234  cd spec
+ 1235  npm init
+ 1236  clear
+ 1237  cd ..
+ 1238  jasmine
+ 1239  clear
+ 1240  git ignore
+ 1241  gitignore
+ 1242  clear
+ 1243  touch gitignore
+ 1244  clear
+ 1245  ls
+ 1246  git status
+ 1247  git add .
+ 1248  git commi -m "second commit"
+ 1249  git commit -m "second commit"
+ 1250  git push
+ 1251  clear
+ 1252  npm init
+ 1253  cd spec
+ 1254  npm init
+ 1255  clear
+ 1256  git add .
+ 1257  git commi -m "updated"
+ 1258  git commit -m "updated"
+ 1259  git push
+ 1260  clear
+ 1261  node api.js
+ 1262  cd src
+ 1263  node api.js
+ 1264  npm install node-fetch
+ 1265  npm install node-fetch --save
+ 1266  npm init
+ 1267  npm install node-fetch --save
+ 1268  node api.js
+ 1269  npm add node-fetch
+ 1270  npm node-fetch init
+ 1271  node api.js
+ 1272  git clone https://github.com/andisiwe1994/Person_project.git
+ 1273  git checkout -b person-project
+ 1274  ls
+ 1275  git phush
+ 1276  git push
+ 1277  git push --set-upstream origin person-project
+ 1278  cd src
+ 1279  npm install node-fetch --save
+ 1280  npm init
+ 1281  npm install node-fetch --save
+ 1282  npm init
+ 1283  npm add node-fetch
+ 1284  npm node-fetch init
+ 1285  npm install node-fetch --save
+ 1286  npm add node-fetch
+ 1287  npm node-fetch init
+ 1288  npm init
+ 1289  npm add node-fetch
+ 1290  npm install node-fetch --save
+ 1291  npm -upgrade
+ 1292  npm-upgrade
+ 1293  npm upgrade
+ 1294  npm -v
+ 1295  npm i -g npm-upgrade
+ 1296  npm -upgrade
+ 1297  npm-upgrade
+ 1298  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-186-consume-github-api.git
+ 1299  git checkout -b github-api
+ 1300  ls
+ 1301  git ststus
+ 1302  git status
+ 1303  git add .
+ 1304  git commit -m "first commit"
+ 1305  git push
+ 1306  git push --set-upstream origin github-api
+ 1307  git add .
+ 1308  git commit -m "first commit
+ 1309  clear
+ 1310  git status
+ 1311  git push
+ 1312  git status
+ 1313  git add .
+ 1314  git commit -m "first commit"
+ 1315  git push
+ 1316  ls
+ 1317  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-186-consume-github-api.git
+ 1318  cd github-api
+ 1319  git status
+ 1320  git checkout -b github-api
+ 1321  git add .
+ 1322  git commit -m "first commit"
+ 1323  git push
+ 1324  git push --set-upstream origin github-api
+ 1325  mkdir src
+ 1326  cd src
+ 1327  modules.js
+ 1328  touch modules.js
+ 1329  clear
+ 1330  mkdir spec
+ 1331  cd spec
+ 1332  touch modules_spec.js
+ 1333  npm init
+ 1334  clear
+ 1335  cd ..
+ 1336  cd src
+ 1337  modules.js
+ 1338  clear
+ 1339  mkdir src
+ 1340  cd src
+ 1341  touch index.js
+ 1342  clear
+ 1343  cd src
+ 1344  node index.js
+ 1345  clear
+ 1346  node index.js
+ 1347  clear
+ 1348  node index.js
+ 1349  clear
+ 1350  node index.js
+ 1351  clear
+ 1352  node index.js
+ 1353  cd src
+ 1354  node index.js
+ 1355  cd src
+ 1356  node modules.js
+ 1357  cd src
+ 1358  node modules.js
+ 1359  cd..
+ 1360  node modules.js
+ 1361  cd src
+ 1362  node index.js
+ 1363  clear
+ 1364  node index.js
+ 1365  cd src
+ 1366  node index.js
+ 1367  clear
+ 1368  node index.js
+ 1369  clear
+ 1370  node index.js
+ 1371  cd src
+ 1372  node index.js
+ 1373  clear
+ 1374  node index.js
+ 1375  cd src
+ 1376  node modules.js
+ 1377  touch index.js
+ 1378  cd ..
+ 1379  mkdir src
+ 1380  cd src
+ 1381  touch index.js
+ 1382  node index.js
+ 1383  cd ..
+ 1384  node index.js
+ 1385  cd src
+ 1386  node index.js
+ 1387  cd src
+ 1388  node index.js
+ 1389  cd ..
+ 1390  jasmine
+ 1391  clear
+ 1392  cd src
+ 1393  node index.js
+ 1394  clear
+ 1395  cd src
+ 1396  node modules.js
+ 1397  cd src
+ 1398  node index.js
+ 1399  clear
+ 1400  node index.js
+ 1401  cd src
+ 1402  node index.js
+ 1403  cd src
+ 1404  node index.js
+ 1405  cd src
+ 1406  node index.js
+ 1407  clear
+ 1408  cd ..
+ 1409  git init
+ 1410  git add *
+ 1411  git commit -m "first commit"
+ 1412  git push -u origin master
+ 1413  git remote add origin https://github.com/andisiwe1994/javascript_project.git
+ 1414  git push -u origin master
+ 1415  cd src
+ 1416  node modules.js
+ 1417  clear
+ 1418  node modules.js
+ 1419  clear
+ 1420  node modules.js
+ 1421  cd src
+ 1422  node modules.js
+ 1423  clear
+ 1424  node modules.js
+ 1425  cd src
+ 1426  node modules.js
+ 1427  cd src
+ 1428  node modules.js
+ 1429  clear
+ 1430  node modules.js
+ 1431  clear
+ 1432  node modules.js
+ 1433  cd src
+ 1434  node modules.js
+ 1435  clear
+ 1436  node modules.js
+ 1437  cd src
+ 1438  node index.js
+ 1439  cd src
+ 1440  node modules.js
+ 1441  cd src
+ 1442  node index.js
+ 1443  cd src
+ 1444  node modules.js
+ 1445  cd src
+ 1446  node modules.js
+ 1447  clear
+ 1448  node modules.js
+ 1449  clear
+ 1450  node modules.js
+ 1451  cd src
+ 1452  node index.js
+ 1453  clear
+ 1454  node index.js
+ 1455  cd src
+ 1456  node index.js
+ 1457  mkdir src
+ 1458  cd src
+ 1459  touch index.js
+ 1460  git init
+ 1461  cd src
+ 1462  git init
+ 1463  echo "# JS_challenges" >> README.md
+ 1464  git init
+ 1465  git add *
+ 1466  git commit -m "first commit"
+ 1467  git push -u origin master
+ 1468  git remote add origin https://github.com/andisiwe1994/JS_challenges.git
+ 1469  git push -u origin master
+ 1470  cd src
+ 1471  node index.js
+ 1472  jasmine
+ 1473  cd src
+ 1474  node katas.js
+ 1475  git init
+ 1476  git add *
+ 1477  git commit -m "updated"
+ 1478  git push -u origin master
+ 1479  clear
+ 1480  node katas.js
+ 1481  mkdir src
+ 1482  cd src
+ 1483  touch index.js
+ 1484  jasmine
+ 1485  node katas.js
+ 1486  clear
+ 1487  node katas.js
+ 1488  clear
+ 1489  node katas.js
+ 1490  clear
+ 1491  node katas.js
+ 1492  clear
+ 1493  node katas.js
+ 1494  clear
+ 1495  cd src
+ 1496  mkdir src
+ 1497  cd src
+ 1498  touch hello.js
+ 1499  touch evenOrOdd.js
+ 1500  touch drawsquare.js
+ 1501  touch rightTriangle.js
+ 1502  touch isosceles.js
+ 1503  touch longest.js
+ 1504  touch addArray.js
+ 1505  touch frame.js
+ 1506  clear
+ 1507  node node addarray.js
+ 1508  clear
+ 1509  node addArray.js
+ 1510  node drawsquare.js
+ 1511  node evenOrOdd.js
+ 1512  node frame.js
+ 1513  node hello.js
+ 1514  node isosceles.js
+ 1515  node longest.js
+ 1516  node rightTriangle.js
+ 1517  jasmine
+ 1518  node evenorodd.js
+ 1519  clear
+ 1520  evenOrOdd
+ 1521  node evenOrOdd.js
+ 1522  clear
+ 1523  cd src
+ 1524  node evenOrOdd.js
+ 1525  cd ..
+ 1526  git init
+ 1527  git add *
+ 1528  git commit -m "second update"
+ 1529  git push -u origin master
+ 1530  CD SRC
+ 1531  cd src
+ 1532  node password_checker.js
+ 1533  clear
+ 1534  cd ..
+ 1535  jasmine
+ 1536  cd src
+ 1537  node password_checker.js
+ 1538  cd ..
+ 1539  cd spec
+ 1540  jasmine
+ 1541  git clone https://github.com/andisiwe1994/linux-begginer-challenges.git
+ 1542  git checkout -b linux_challenges
+ 1543  cd linux-begginer-challenges/
+ 1544  git add *
+ 1545  git commit -m "first commit"
+ 1546  git puh -u origin linux_challenges
+ 1547  git push -u origin linux_challenges
+ 1548  clear
+ 1549  git add *
+ 1550  git commit -m "first commit"
+ 1551  git push -u origin linux_challenges
+ 1552  cd ..
+ 1553  git clone https://github.com/andisiwe1994/git-basic-excercise.git
+ 1554  git add *
+ 1555  clear
+ 1556  git clone https://github.com/andisiwe1994/git-basic-excercise.git
+ 1557  git checkout -b git_basic_challenges
+ 1558  git add *
+ 1559  git commit -m "first commit"
+ 1560  git push -u origin git_basic_challenges
+ 1561  git clone https://github.com/andisiwe1994/git-basic-excercise.git
+ 1562  git checkout -b git_basics
+ 1563  git status
+ 1564  git add *
+ 1565  git commit -m "first commit"
+ 1566  git push -u origin git_basics
+ 1567  cd src
+ 1568  node password_checker.js
+ 1569  CLEAR
+ 1570  clear
+ 1571  cd ..
+ 1572  jasmine
+ 1573  cd src
+ 1574  node katas.js
+ 1575  node evenOrOdd.js
+ 1576  git clone https://github.com/andisiwe1994/Animal_project.git
+ 1577  git checkout -b animal-project
+ 1578  git add *
+ 1579  git commit -m "first commit"
+ 1580  git push -u origin animal-project
+ 1581  touch index.html styles.css scripts.js
+ 1582  mkdir img
+ 1583  jasmine
+ 1584  clear
+ 1585  jasmine
+ 1586  clear
+ 1587  jasmine init
+ 1588  jasmine 
+ 1589  CD SRC
+ 1590  cd src
+ 1591  node password_checker.js
+ 1592  clear
+ 1593  node password_checker.js
+ 1594  cd ..
+ 1595  jasmine
+ 1596  clear
+ 1597  jasmine
+ 1598  cd src
+ 1599  node password_checker.js
+ 1600  cd ..
+ 1601  jasmine
+ 1602  clear
+ 1603  jasmine
+ 1604  cd src
+ 1605  node password_checker.js
+ 1606  clear
+ 1607  node password_checker.js
+ 1608  cd ..
+ 1609  jasmine
+ 1610  git status
+ 1611  git add *
+ 1612  git commit -m "last commit"
+ 1613  git push -u origin password-project
+ 1614  git push -u origin password_project
+ 1615  clear
+ 1616  git add *
+ 1617  git commit -m "second commit"
+ 1618  git push
+ 1619  cd password-project
+ 1620  git pull
+ 1621  clear
+ 1622  git pull
+ 1623  git status
+ 1624  git push
+ 1625  clear
+ 1626  git checkeout -b password-checker
+ 1627  clear
+ 1628  git checkout -b password-checker
+ 1629  git add *
+ 1630  git commit -m "first commit"
+ 1631  git push -u origin password-checker
+ 1632  jasmine
+ 1633  cs src
+ 1634  cd src
+ 1635  node strng_calculator.js
+ 1636  mkdir src
+ 1637  cd src
+ 1638  touch index.js
+ 1639  jasmine
+ 1640  cd src
+ 1641  node simple_calculator.js
+ 1642  cd ..
+ 1643  jasmine
+ 1644  cd spec
+ 1645  jasmine
+ 1646  cd ..
+ 1647  jasmine
+ 1648  npm test
+ 1649  jasmine
+ 1650  npm test
+ 1651  clear
+ 1652  jasmine
+ 1653  cd src
+ 1654  cd ..
+ 1655  cd src
+ 1656  cd ..
+ 1657  cd Desktop/
+ 1658  cd Andisiwe-Nkwana-186-consume Github API
+ 1659  cd Andisiwe-Nkwana-186-consume_github_api
+ 1660  cd Andisiwe-Nkwana-186-consume-github-api
+ 1661  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1662  cd src
+ 1663  touch api.js2
+ 1664  nmp install axios
+ 1665  sudo apt install
+ 1666  cd src
+ 1667  cd ..
+ 1668  npm install axios
+ 1669  cd src
+ 1670  node api2.js
+ 1671  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1672  cd src
+ 1673  node api2.js
+ 1674  mkdir src
+ 1675  touch script.js
+ 1676  npm init
+ 1677  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-222-memory-game-in-vanilla-js.git
+ 1678  cd Andisiwe-Nkwana-222-memory-game-in-vanilla-js/
+ 1679  git checkout -b game
+ 1680  git add * 
+ 1681  git commit -m "first commit"
+ 1682  git push -u origin game
+ 1683  git status
+ 1684  git push
+ 1685  cd Andisiwe-Nkwana-222-memory-game-in-vanilla-js/
+ 1686  git add *
+ 1687  git commit -m "first commit"
+ 1688  git push -u origin game
+ 1689  git clone https://github.com/andisiwe1994/katas.git
+ 1690  git checkout -b katas-challenges
+ 1691  git add *
+ 1692  git commit -m "first commit"
+ 1693  git push -u origin katas-challenges
+ 1694  CLEAR
+ 1695  clear
+ 1696  cd src
+ 1697  node longest.js
+ 1698  cd src
+ 1699  node index.js
+ 1700  clear
+ 1701  index.js
+ 1702  node index.js
+ 1703  clear
+ 1704  node index.js
+ 1705  node isosceles.js
+ 1706  clear
+ 1707  cd src
+ 1708  node evenOrodd.js
+ 1709  cd src
+ 1710  node isosceles.js
+ 1711  cd src
+ 1712  cd ..
+ 1713  cd src
+ 1714  cd Katas
+ 1715  cd katas/
+ 1716  cd src
+ 1717  node isosceles.js
+ 1718  mkdir src
+ 1719  cd src
+ 1720  node isosceles.js
+ 1721  touch addArray.js
+ 1722  touch drawsquare.js
+ 1723  touch evenOrOdd.js
+ 1724  touch frame.js
+ 1725  touch combineArray.js
+ 1726  touch isosceles.js
+ 1727  touch longest.js
+ 1728  touch rightTriangle.js
+ 1729  node addArray.js
+ 1730  node drawsquare.js
+ 1731  node evenOrOdd.js
+ 1732  node frame.js
+ 1733  node hello.js
+ 1734  node isosceles.js
+ 1735  node longest.js
+ 1736  node rightTriangle.js
+ 1737  node isosceles.js
+ 1738  clear
+ 1739  cd ..
+ 1740  git checkout -b katas
+ 1741  git add *
+ 1742  git commit -m "fixed src file"
+ 1743  git push -u origin katas
+ 1744  cd src
+ 1745  node script.js
+ 1746  cd src
+ 1747  node script.js
+ 1748  cd src 
+ 1749  mkdir src
+ 1750  cd src
+ 1751  touch api.js
+ 1752  node api.js
+ 1753  clear
+ 1754  node api.js
+ 1755  clear
+ 1756  cd ..
+ 1757  gitignore
+ 1758  mkdir gitignore
+ 1759  cd src
+ 1760  node api.js
+ 1761  cd ..
+ 1762  node api.js
+ 1763  clear
+ 1764  git checkout -b API
+ 1765  git add *
+ 1766  git commit -m "fixed src file"
+ 1767  git push -u origin API
+ 1768  git add *
+ 1769  git commit -m "fixed src file"
+ 1770  clear
+ 1771  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1772  git checkout -b API
+ 1773  git add *
+ 1774  git commit -m "fixed src file"
+ 1775  git push -u origin API
+ 1776  clear
+ 1777  git add *
+ 1778  git commit -m "added spec file"
+ 1779  git push -u origin API
+ 1780  cd src
+ 1781  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1782  cd src
+ 1783  node api.js
+ 1784  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1785  cd src
+ 1786  node api.js
+ 1787  clear
+ 1788  node api.js
+ 1789  clear
+ 1790  node api.js
+ 1791  clear
+ 1792  node api.js
+ 1793  clear
+ 1794  node api.js
+ 1795  cd src
+ 1796  mkdir src
+ 1797  cd src
+ 1798  touch api.js
+ 1799  node api.js
+ 1800  cd ..
+ 1801  install axios
+ 1802  node api.js
+ 1803  clear
+ 1804  cd src
+ 1805  node api.js
+ 1806  cd ..
+ 1807  node api.js
+ 1808  cd src
+ 1809  node api.js
+ 1810  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1811  CD SRC
+ 1812  cd src
+ 1813  node api.js
+ 1814  Andisiwe-Nkwana-186-consume-github-api/
+ 1815  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1816  cd src
+ 1817  node api.js
+ 1818  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1819  cd src
+ 1820  node api.js
+ 1821  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1822  cd src
+ 1823  node api.js
+ 1824  clear
+ 1825  node api.js
+ 1826  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1827  cd src
+ 1828  node api.js
+ 1829  cd ..
+ 1830  git add *
+ 1831  git commit -m "fixed src file and added gitignore"
+ 1832  git push -u origin API
+ 1833  cd spec
+ 1834  cd Andisiwe-Nkwana-230-email-random-inspirational-quote/
+ 1835  cd spec
+ 1836  touch testing.js
+ 1837  cd ..
+ 1838  cd src
+ 1839  node server.js
+ 1840  CD SRC
+ 1841  cd src
+ 1842  node isosceles.js
+ 1843  node frame.js
+ 1844  node drawsquare.js
+ 1845  clear
+ 1846  cd ..
+ 1847  git add *
+ 1848  git commit -m "used camelCase and prettier"
+ 1849  git push -u origin katas-challenges
+ 1850  git pull
+ 1851  cd src
+ 1852  git add *
+ 1853  git commit -m "used camelCase and prettier"
+ 1854  git push -u origin katas-challenges
+ 1855  git pull ...
+ 1856  git pull
+ 1857  git push
+ 1858  cd ..
+ 1859  git branch -d katas
+ 1860  git checkout master
+ 1861  git checkout katas-challenges
+ 1862  git add *
+ 1863  git commit -m "used camelCase and prettier"
+ 1864  git push
+ 1865  git pull
+ 1866  git push
+ 1867  git push -u origin katas-challenges
+ 1868  git status
+ 1869  git add *
+ 1870  git commit -m "used camelCase and prettier
+ 1871  git status
+ 1872  clear
+ 1873  cd src
+ 1874  git add *
+ 1875  git cimmit -m "used camelCase and prettier"
+ 1876  git commit -m "used camelCase and prettier"
+ 1877  git push -u origin katas-challenges
+ 1878  set up to track remote branch
+ 1879  git push
+ 1880  clear
+ 1881  git add *
+ 1882  git commit -m "used camelCase and prettier"
+ 1883  git push -u origin katas-challenges
+ 1884  cd ..
+ 1885  git add *
+ 1886  git commit -m "used camelCase and prettier"
+ 1887  git push origin katas-challenges
+ 1888  git status
+ 1889  git add .
+ 1890  git status
+ 1891  git add .
+ 1892  git status
+ 1893  git commit -m "used camelCase and prettier"
+ 1894  git push -u origin katas-challenges
+ 1895  git add *
+ 1896  git commit -m "used camelCase and prettier"
+ 1897  git push -u origin katas-challenges
+ 1898  cd src 
+ 1899  git add *
+ 1900  git commit -m "used camelCase and prettier"
+ 1901  git pull
+ 1902  git status
+ 1903  cd Andisiwe-Nkwana-186-consume-github-api/
+ 1904  cd src
+ 1905  node api.js
+ 1906  cd ..
+ 1907  git add *
+ 1908  git commit -m "fixed src file"
+ 1909  git push -u origin API
+ 1910  mkdir src
+ 1911  cd src
+ 1912  touch addArray.js
+ 1913  touch drawSquare.js
+ 1914  cd src
+ 1915  hello.js
+ 1916  cd ..
+ 1917  cd src
+ 1918  touch evenOrOdd.js
+ 1919  touch frame.js
+ 1920  touch hello.js
+ 1921  touch isosceles.js
+ 1922  touch longest.js
+ 1923  touch rightTriangle.js
+ 1924  clear
+ 1925  node addArray.js
+ 1926  node addSquare.js
+ 1927  node evenOrOdd.js
+ 1928  node frame.js
+ 1929  node hello.js
+ 1930  node isosceles.js
+ 1931  node longest.js
+ 1932  node rightTriangle.js
+ 1933  node drawSquare.js
+ 1934  clear
+ 1935  cd ..
+ 1936  git commit -m "used camelCase and prettier"
+ 1937  git push -u origin katas-challenges
+ 1938  cd Andisiwe-Nkwana-230-email-random-inspirational-quote/
+ 1939  cd src
+ 1940  node server.js
+ 1941  cd ..
+ 1942  jasmine
+ 1943  mkdir src
+ 1944  cd src
+ 1945  touch node.js
+ 1946  cd ..
+ 1947  cd src
+ 1948  npm init
+ 1949  clear
+ 1950  cd ..
+ 1951  ls -a
+ 1952  git init
+ 1953  ls -a
+ 1954  git status
+ 1955  git log
+ 1956  nano README.md
+ 1957  y
+ 1958  cat README.md
+ 1959  "second commit"
+ 1960  git commit -m "second commit"
+ 1961  git log
+ 1962  git status
+ 1963  git add
+ 1964  git status
+ 1965  git commit -m "second comit"
+ 1966  mkdir spec
+ 1967  cd spec
+ 1968  touch node_spec.js
+ 1969  npm init
+ 1970  clear
+ 1971  cd ..
+ 1972  cd src
+ 1973  node node.js
+ 1974  cd Andisiwe-Nkwana-222-memory-game-in-vanilla-js/
+ 1975  cd src
+ 1976  node scripts.js
+ 1977  mkdir git-basic-exercises
+ 1978  cd git-basic-exercises/
+ 1979  ls -a
+ 1980  git init
+ 1981  ls -a
+ 1982  git status
+ 1983  touch README.md
+ 1984  ls -a
+ 1985  git status
+ 1986  git log
+ 1987  git add
+ 1988  git status
+ 1989  git commit -m "first commit"
+ 1990  status
+ 1991  git status
+ 1992  git commit -m "initial commit"
+ 1993  git log
+ 1994  cd git-basic-exercises/
+ 1995  git log
+ 1996  git status
+ 1997  git add
+ 1998  git status
+ 1999  git commit -m "initial commit"
+ 2000  git log
+ 2001  git status
+ 2002  git commit -m "added initial flavours"
+ 2003  git log
+ 2004  git checkout master
+ 2005  git checkout -b history
+ 2006  git log
+ 2007  git branch
+ 2008  history > history.txt
